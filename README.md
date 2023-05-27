@@ -10,6 +10,6 @@
 ## 五、选择[DNS过滤器]按钮
 ## 六、选择[添加过滤器]按钮
 ## 七、将下述地址复制其中
-- 国内地址：https://raw.githubusercontent.com/TonaSmith/adguard/main/adguard.txt
+- 国内地址：https://caoyongzhuo.cn/AdGuard/CYZ-AdGuard.txt
 - 国外地址：https://raw.githubusercontent.com/TonaSmith/adguard/main/adguard.txt
 ## 八、黏贴后校验添加即可
