@@ -1,8 +1,8 @@
 !Title: CAOYONGZHUO For ADgurad
 !Version: 20230527183259564739774
 !Expires: 7 days
-!Homepage: https://caoyongzhuo.cn
-!!!note! If you are using "AdGuard Home", please load https://github.com/TonaSmith/adguard/blob/main/adguard.txt
+!Homepage: https:tonasmith.github.com
+!!!note! If you are using "AdGuard Home", please load https://github.com/TonaSmith/adguard/adguard.txt
 !Total lines: 80277
 @@||939394.xyz^
 @@||ad-maven.com^
@@ -66521,7 +66521,6 @@ ubmcmm.baidustatic.com
 ||ssh.*.com^*!$script,third-party
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-!------------------------General element hiding rules-------------------------!
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -80273,5 +80272,3 @@ fqsousou.com,kengso.com#@#.user-share
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
 ||hjfile.cn/analytics/site/TrackEvent.js
-!---------------------------------Temporary-----------------------------------!
-!----------------------------------The End------------------------------------!
