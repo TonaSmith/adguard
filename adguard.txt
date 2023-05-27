@@ -1,8 +1,8 @@
 !Title: CAOYONGZHUO For ADgurad
 !Version: 20230527183259564739774
 !Expires: 7 days
-!Homepage: https:tonasmith.github.com
-!!!note! If you are using "AdGuard Home", please load https://github.com/TonaSmith/adguard/adguard.txt
+!Homepage: https://caoyongzhuo.cn
+!!!note! If you are using "AdGuard Home", please load https://github.com/TonaSmith/adguard/blob/main/adguard.txt
 !Total lines: 80277
 @@||939394.xyz^
 @@||ad-maven.com^
